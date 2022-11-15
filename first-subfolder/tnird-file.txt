@@ -1,1 +1,3 @@
 Third  file text
+
+новый текст в файле Third-file

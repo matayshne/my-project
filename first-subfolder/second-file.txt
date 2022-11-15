@@ -1,1 +1,3 @@
 Second file text
+
+новый текст в файле second-file
