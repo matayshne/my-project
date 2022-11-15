@@ -1,4 +1,4 @@
 I love Kseniya
 
 
-his file was modified in the feature branch
+This file was modified in the feature branch
